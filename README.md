@@ -12,6 +12,8 @@ The following code has been prepared in the google colab and has been advised to
 The code used regular expression (re) and natural langugae tool kit (nltk) to deal with text data. The input data is visualized in form of tf-idf frequency matrix using the appropriate module.
 The code takes the kaggle data as the input file which has been uploaded in the github directory along with the results of the code.  
 
+colab link : https://colab.research.google.com/drive/1RPL1IgpoB0syGEH53CMgUdBc_nhhJWIn?usp=sharing
+
 
 
 
