@@ -4,7 +4,7 @@ The following code uses the airline tweets dataset from the open source Kaggle a
 ## Data
 The following dataset has 14640 tweets containg information about the place , time, persons name as well as the text of the tweet as the data samples which are trained to predict the mood/ sentiment of the tweeter. In total, we have 14 features and 14640 training tweets.
 
-Moods has been classifed into Positive, Neutral and Negative, teh code needs to classify among these classes.
+Moods has been classifed into Positive, Neutral and Negative, the code needs to classify among these classes.
 
 ## Code
 The following code has been prepared in the google colab and has been advised to use the same platfrom. The code starst with reading the data, visualizing the data and later on preprocessing it, to be fit for classification models. The last stage, develops a logistic classification and decision tree model to classify the sentiments.
